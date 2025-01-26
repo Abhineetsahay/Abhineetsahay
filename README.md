@@ -1,11 +1,11 @@
 # Hi 👋, I'm Abhineet Sahay
 
-### Passionate MERN Stack Developer | ML Enthusiast 
+### Passionate MERN Stack Developer | ML Enthusiast | Competitive Programmer
 
-I have a strong foundation in JavaScript and TypeScript and enjoy crafting efficient, scalable web applications. Recently, I’ve been diving deeper into Machine Learning and Go programming, expanding my technical horizons.
+I have a strong foundation in JavaScript and TypeScript and enjoy crafting efficient, scalable web applications. I am also actively involved in Competitive Programming and recently started exploring Machine Learning and Go programming.
 
 - 👨‍💻 **Portfolio**: [Portfolio Website](https://portfolioby-abhineet.vercel.app/)
-- 💬 **Ask me about**: MERN Stack, Data Structures & Algorithms (DSA), and beginner ML projects.
+- 💬 **Ask me about**: MERN Stack, Data Structures & Algorithms (DSA), Competitive Programming, and beginner ML projects.
 - 🌱 **Currently learning**: Go (Golang), Machine Learning, and advanced design patterns.
 - 📫 **Reach me at**: **abhineetsahay@gmail.com**
 
@@ -13,38 +13,38 @@ I have a strong foundation in JavaScript and TypeScript and enjoy crafting effic
 
 ## 🌐 Connect with me:
 
-[LinkedIn](https://linkedin.com/in/abhineet-sahay-17a39428b) | [GitHub](https://github.com/abhineetsahay) | [LeetCode](https://leetcode.com/u/sahayabhineet/)
+[LinkedIn](https://linkedin.com/in/abhineet-sahay-17a39428b) | [GitHub](https://github.com/abhineetsahay) | [LeetCode](https://leetcode.com/u/sahayabhineet/) | [CodeChef](https://www.codechef.com/users/sahayabhineet1) | [CodeForces](https://codeforces.com/profile/__abhineet__)
 
 ---
 
 ## 🛠️ Languages & Technologies:
 
 ### Languages:
-- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) [C](https://www.cprogramming.com/)
-- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) [C++](https://www.w3schools.com/cpp/)
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [Python](https://www.python.org/)
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) [Java](https://www.java.com)
-- ![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg) [Go](https://golang.org/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> [C](https://www.cprogramming.com/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> [C++](https://www.w3schools.com/cpp/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> [Python](https://www.python.org/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> [Java](https://www.java.com)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> [Go](https://golang.org/)
 
 ### Frontend Development:
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) [React](https://reactjs.org/)
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) [HTML5](https://www.w3.org/html/)
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) [CSS3](https://www.w3schools.com/css/)
-- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) [TypeScript](https://www.typescriptlang.org/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> [React](https://reactjs.org/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> [HTML5](https://www.w3.org/html/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> [CSS3](https://www.w3schools.com/css/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> [TypeScript](https://www.typescriptlang.org/)
 
 ### Backend Development:
-- ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) [Express](https://expressjs.com/)
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) [Node.js](https://nodejs.org)
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) [MongoDB](https://www.mongodb.com/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> [Express](https://expressjs.com/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> [Node.js](https://nodejs.org)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> [MongoDB](https://www.mongodb.com/)
 
 ### Machine Learning:
-- ![Scikit-learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg) [Scikit-learn](https://scikit-learn.org/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/> [Scikit-learn](https://scikit-learn.org/)
 
 ### Tools & Version Control:
-- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) [Git](https://git-scm.com/)
-- ![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) [VS Code](https://code.visualstudio.com/)
-- ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) [Postman](https://www.postman.com/)
+- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> [Git](https://git-scm.com/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> [VS Code](https://code.visualstudio.com/)
+- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> [Postman](https://www.postman.com/)
 
 ---
 
@@ -65,6 +65,7 @@ I have a strong foundation in JavaScript and TypeScript and enjoy crafting effic
 
 - **MERN Stack**: MongoDB, Express, React, Node.js
 - **Data Structures & Algorithms (DSA)**: Let’s discuss efficient solutions!
+- **Competitive Programming**: Algorithms, problem-solving, and coding challenges.
 - **Machine Learning**: From basic models to advanced AI.
 - **Go**: I’m learning Go and open to collaborations or learning resources!
 
@@ -78,7 +79,8 @@ Feel free to reach out via email: **abhineetsahay@gmail.com**
 
 ## 🔗 Other Links:
 - [LeetCode](https://leetcode.com/u/sahayabhineet/)
-- [Portfolio](https://portfolioby-abhineet.vercel.app/)
+- [CodeChef](https://www.codechef.com/users/sahayabhineet1)
+- [CodeForces](https://codeforces.com/profile/__abhineet__)
 
 ---
 
