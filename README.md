@@ -85,13 +85,6 @@ I have a strong foundation in JavaScript and TypeScript and enjoy crafting effic
 
 Feel free to reach out via email: **abhineetsahay@gmail.com**
 
----
 
-## 🔗 Other Links:
-- [LeetCode](https://leetcode.com/u/sahayabhineet/)
-- [CodeChef](https://www.codechef.com/users/sahayabhineet1)
-- [CodeForces](https://codeforces.com/profile/__abhineet__)
-
----
 
 Thank you for visiting my GitHub profile! 😊
