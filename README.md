@@ -20,11 +20,13 @@ I have a strong foundation in JavaScript and TypeScript and enjoy crafting effic
 ## 🛠️ Languages & Technologies:
 
 ### Languages:
+<p align="left">
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> [C](https://www.cprogramming.com/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> [C++](https://www.w3schools.com/cpp/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> [Python](https://www.python.org/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> [Java](https://www.java.com)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> [Go](https://golang.org/)
+</p>
 
 ### Frontend Development:
 <p align="left">
@@ -34,7 +36,6 @@ I have a strong foundation in JavaScript and TypeScript and enjoy crafting effic
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> [CSS3](https://www.w3schools.com/css/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> [TypeScript](https://www.typescriptlang.org/)
 </p>
-
 ### Backend Development:
 <p align="left">
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> [Express](https://expressjs.com/)
@@ -46,14 +47,12 @@ I have a strong foundation in JavaScript and TypeScript and enjoy crafting effic
 <p align="left">
 - <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Scikit-learn" width="40" height="40"/> [Scikit-learn](https://scikit-learn.org/)
 </p>
-
 ### Tools & Version Control:
 <p align="left">
 - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> [Git](https://git-scm.com/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> [VS Code](https://code.visualstudio.com/)
 - <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> [Postman](https://www.postman.com/)
 </p>
-
 ---
 
 ## 📊 GitHub Stats:
