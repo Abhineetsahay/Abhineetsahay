@@ -71,16 +71,6 @@ I have a strong foundation in JavaScript and TypeScript and enjoy crafting effic
 
 ---
 
-## 💬 Ask Me About:
-
-- **MERN Stack**: MongoDB, Express, React, Node.js
-- **Data Structures & Algorithms (DSA)**: Let’s discuss efficient solutions!
-- **Competitive Programming**: Algorithms, problem-solving, and coding challenges.
-- **Machine Learning**: From basic models to advanced AI.
-- **Go**: I’m learning Go and open to collaborations or learning resources!
-
----
-
 ## 📫 How to Reach Me:
 
 Feel free to reach out via email: **abhineetsahay@gmail.com**
