@@ -1,0 +1,5 @@
+<p align="center">
+  <a href="https://deplay.cc/FL_Studio_Full_Version" target="_blank">
+    <img src="https://img.shields.io/badge/Download-FL_Studio_2026_Crack_%2B_All_Plugins-FF6600?style=for-the-badge&logo=flstudio&logoColor=white" alt="Download FL Studio 2026">
+  </a>
+</p>
