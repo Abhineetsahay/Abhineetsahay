@@ -1,8 +1,8 @@
-# Hello 
+# Hello , I am Abhineet Sahay
 I am a Computer Science student passionate about Web Applications and Machine learning.
 
 # 💫 About Me:
-  <br>🚀 Passionate about building in Web Development & Machine Learning  <br>🔭 Currently working on: Scalable Web Apps & ML Models  <br>🌱 Exploring: CNNs, Transformers & Deep Learning  <br>🤝 Open to collaborate on Full-Stack & AI-driven projects  <br>💬 Ask me about: MERN Stack, DSA, ML & DL  <br>⚡ Fun fact: Cricket enthusiast 🏏 | Music lover 🎧 | Always exploring cool tech & ideas
+🧑‍🎓 Final year Engineering Student at KIIT  <br>🚀 Passionate about building in Web Development & Machine Learning  <br>🔭 Currently working on: Scalable Web Apps & ML Models  <br>🌱 Exploring: CNNs, Transformers & Deep Learning  <br>🤝 Open to collaborate on Full-Stack & AI-driven projects  <br>💬 Ask me about: MERN Stack, DSA, ML & DL  <br>⚡ Fun fact: Cricket enthusiast 🏏 | Music lover 🎧 | Always exploring cool tech & ideas
 
 
 
